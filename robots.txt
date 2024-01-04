@@ -1,0 +1,4 @@
+User-agent: *
+Allow:
+
+Sitemap: http://slot-mahjong-ways.de-rse.org/sitemap.xml
